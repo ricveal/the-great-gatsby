@@ -196,6 +196,12 @@ JavaScript, APIs, and Markup
 
 ---
 
+## [📋: https://github.com/ricveal/the-great-gatsby](https://github.com/ricveal/the-great-gatsby)
+
+![inline 120%](./resources/qr.png)
+
+---
+
 # Muchas Gracias
 
 ![background](./resources/ending.gif)

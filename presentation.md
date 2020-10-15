@@ -8,44 +8,6 @@ footer: [@ricveal](https://ricveal.com)
 
 ---
 
-![left fit](./resources/book.gif)
-
-- Jay Gatsby
-- Principios S. XX Long Island
-- Jazz, Art deco, locos años 20
-- Decadencia, Exceso, Resistencia al cambio
-
----
-
-## F. Scott Fitzgerald
-
-![left fit](./resources/fitzgerald.jpg)
-
-- Paradigma de la era del Jazz 🎷
-- 🍻 🍷 🥃
-- Generación perdida
-  - Gertrude Stein
-  - Ernest Hemingway
-  - Zelda Sayre (Fitzgerald)
-
----
-
-![background](./resources/bored_fitzgerald.gif)
-
----
-
-![background](./resources/link.gif)
-
----
-
-![background](./resources/movie.jpg)
-
-- 2013
-- Leonardo DiCaprio
-- Óscar Mejor Vestuario 2014
-
----
-
 ![background](./resources/gatsby.png)
 
 ---
@@ -109,6 +71,10 @@ JavaScript, APIs, and Markup
 
 ---
 
+![background fit](./resources/who-is-gatsby.gif)
+
+---
+
 ### Gatsby
 
 - Framework Jamstack
@@ -142,6 +108,8 @@ JavaScript, APIs, and Markup
 - [Understanding React Hydration](https://www.gatsbyjs.com/docs/react-hydration/)
 - [The Perils of Rehydration](https://joshwcomeau.com/react/the-perils-of-rehydration/)
 
+![inline](./resources/jack-titanic.gif)
+
 ---
 
 ![inline](./resources/graphql.png)
@@ -170,8 +138,14 @@ JavaScript, APIs, and Markup
 
 #### Cons
 
+[.column]
+
 - Build Time
 - Dynamic content
+
+[.column]
+
+![inline](./resources/oscars-joy.gif)
 
 ---
 
